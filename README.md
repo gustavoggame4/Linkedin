@@ -13,7 +13,3 @@ Este projeto consiste na recriação do perfil do LinkedIn de um dos membros da 
 
 O projeto utiliza as tags HTML estudadas, seus atributos globais e próprios, e faz uso de posicionamento CSS com `z-index` para sobreposição correta dos elementos.
 
----
-
-## Estrutura do Projeto
-
